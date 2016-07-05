@@ -1,0 +1,5 @@
+body {background: skyblue;}
+h1, h3 {text-align:center; }
+textarea {width: 400px;height: 200px;}
+#results {background:yellowgreen;}
+.high {background-color:gray;}
